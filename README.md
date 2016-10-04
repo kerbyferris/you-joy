@@ -1,4 +1,5 @@
 # you-joy
 Sound Installation for Content 2013 at the Ace Hotel PDX
 
-<iframe width="854" height="480" src="https://vimeo.com/6a2529dc-cab3-4acf-8d49-0c6f3883c827" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/78100414" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/78100414">Ace Hotel - Thinking Cap - Sword+Fern with Kerby Ferris</a> from <a href="https://vimeo.com/acehotel">Ace Hotel</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
