@@ -1,4 +1,4 @@
 # you-joy
 Sound Installation for Content 2013 at the Ace Hotel PDX
 
-[![YouJoy](https://s3.amazonaws.com/you-joy-assets/youjoy-screenshot)](https://vimeo.com/78100414 "YouJoy")
+[![YouJoy](https://github.com/kerbyferris/you-joy/blob/master/assets/youjoy-screenshot.png)](https://vimeo.com/78100414 "YouJoy")
