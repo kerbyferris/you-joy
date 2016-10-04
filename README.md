@@ -1,9 +1,8 @@
 # YouJoy
-Sound Installation for Content 2013 at the Ace Hotel PDX
+Sound Installation for Content 2012 at the Ace Hotel PDX
 
 [![YouJoy](https://github.com/kerbyferris/you-joy/blob/master/project/assets/youjoy-screenshot.png)](https://vimeo.com/78100414 "YouJoy")
 
-> As part of our Thinking Cap series, two of the most beautiful wingnuts we know permitted us a brief glimpse into their collaborative, poetic, finely tuned and deeply nuanced creative process. Emily Baker of Sword + Fern and sound artist Kerby Ferris — together they form Lavender Mirror — bend molecules to their will, help Uncle Larry make sense of it all, and love each other beyond measure.
-> Watch and weep, and make stuff.
+> What resulted was magic: a collection of glass plates printed with palm images that, when touched, produced a layer of sound. This created an interactive, auditory experience wherein attendees could layer sounds over one another and create collaborative music.
 >
-> -- <cite>acehotel.com/thinkingcap 2013</cite>
+> -- <cite>[Portland Murcury](http://www.portlandmercury.com/mod/archives/2012/11/21/on-content-2012)</cite>
